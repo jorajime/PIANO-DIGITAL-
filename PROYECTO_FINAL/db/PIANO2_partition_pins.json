@@ -1,0 +1,173 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "PARLANTE",
+					"strict" : false
+				},
+				{
+					"name" : "OK[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ESTADO[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ESTADO[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ESTADO[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ESTADO[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG[6]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clock_50",
+					"strict" : false
+				},
+				{
+					"name" : "do",
+					"strict" : false
+				},
+				{
+					"name" : "sol",
+					"strict" : false
+				},
+				{
+					"name" : "no",
+					"strict" : false
+				},
+				{
+					"name" : "fa",
+					"strict" : false
+				},
+				{
+					"name" : "re",
+					"strict" : false
+				},
+				{
+					"name" : "la",
+					"strict" : false
+				},
+				{
+					"name" : "mi",
+					"strict" : false
+				},
+				{
+					"name" : "si",
+					"strict" : false
+				},
+				{
+					"name" : "CA0",
+					"strict" : false
+				},
+				{
+					"name" : "CA1",
+					"strict" : false
+				},
+				{
+					"name" : "CA2",
+					"strict" : false
+				},
+				{
+					"name" : "CA3",
+					"strict" : false
+				},
+				{
+					"name" : "CA4",
+					"strict" : false
+				},
+				{
+					"name" : "CA5",
+					"strict" : false
+				},
+				{
+					"name" : "CA6",
+					"strict" : false
+				},
+				{
+					"name" : "CA7",
+					"strict" : false
+				},
+				{
+					"name" : "B_MELODIA",
+					"strict" : false
+				},
+				{
+					"name" : "B_PRACTICA",
+					"strict" : false
+				},
+				{
+					"name" : "B_REPRODUCIR",
+					"strict" : false
+				},
+				{
+					"name" : "GUARDAR",
+					"strict" : false
+				},
+				{
+					"name" : "B_REGRESAR",
+					"strict" : false
+				},
+				{
+					"name" : "RESET",
+					"strict" : false
+				},
+				{
+					"name" : "START",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
